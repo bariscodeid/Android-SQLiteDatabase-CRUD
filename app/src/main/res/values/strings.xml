@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUD: Android + SQLite Database</string>
+    <string name="title_data">Nama Lengkap</string>
+    <string name="sub_data">Alamat Lengkap</string>
+</resources>
